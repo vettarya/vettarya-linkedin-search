@@ -1,4 +1,4 @@
-# Busca de candidatos no LinkedIn comum | Vettarya
+# Busca de candidatos no LinkedIn comum (para quem não tem o recruiter)
 
 Skill em português para Claude. Cole o briefing de uma vaga e receba três buscas prontas para copiar, os filtros de localização e um ajuste para quando aparecerem poucos perfis ou perfis fora do escopo.
 
