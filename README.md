@@ -25,3 +25,9 @@ Cole uma linha por vez na pesquisa, selecione **Pessoas** e aplique **Uberlândi
 - [Pesquisa booleana no LinkedIn](https://www.linkedin.com/help/linkedin/answer/a524335)
 - [Filtro de localização do LinkedIn](https://www.linkedin.com/help/linkedin/answer/a522593)
 - [Uso de skills no Claude](https://support.claude.com/en/articles/12512180-use-skills-in-claude)
+
+## Para candidatos · Treine sua entrevista pelo método STAR
+
+[Baixe a skill para Claude](./treino-entrevista-star.zip) e importe o ZIP em **Customize → Skills → + → Create skill → Upload a skill**. As [instruções da skill](./treino-entrevista-star/SKILL.md) também estão disponíveis para leitura.
+
+Para começar, escreva: “Vou entrevistar para uma vaga de suporte técnico. Quero treinar três histórias reais pelo método STAR. Faça uma pergunta por vez.” Você também pode colar a descrição da vaga. A cada rodada, conte sua experiência, receba feedback e tente de novo usando quatro lembretes.
